@@ -1,2 +1,2 @@
 # MLD2019
-Machine Learning Databases 2017 by Jarle Brichmann
+Machine Learning Databases 2019 by Jarle Brichmann
